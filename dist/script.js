@@ -38,7 +38,7 @@ const videos = [
     { title: "Veo 3 1 Zoom In",      model: "Veo 3.1 _General Model", term: "zoom in",  id: YT_ID9 },
   { title: "Veo 3 1 Zoom Out", model: "Veo 3.1 _General Model", term: " zoom out ",fail: true, id: YT_ID10 },
    { title: "Seedance1 5 Zoom In", model: "Seedance 1.5 _General Model", term: " zoom in ", id: YT_ID11 },
-  { title: "Seedance1 5 Tilt Down", model: "Seedance 1.5 _General Model", term: " zoom out ",fail: true, id: YT_ID12 },
+  { title: "Seedance1 5 Zoom Out", model: "Seedance 1.5 _General Model", term: " zoom out ",fail: true, id: YT_ID12 },
   
   { title: "Minimax Hailuo2 3 Zoom In", model: "Minimax Hailuo 2.3 _General Model", term: " zoom in ", id: YT_ID13 },
   { title: "Minimax Hailuo2 3 Zoom Out", model: "Minimax Hailuo 2.3 _General Model", term: " zoom out ",fail: true, id: YT_ID14 },
